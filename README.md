@@ -15,7 +15,7 @@ Welcome! This repository is mainly focus on Machine Learning and Data Science
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahulshahu&hide=CSS,HTML,PLSQL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahulshahu&repo=ML-DS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
